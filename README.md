@@ -86,6 +86,7 @@ El análisis de costo es cualitativo, porque no se dispone de una estimación mo
 - ## Videos
 
 - Demostración de los tres paradigmas: https://youtu.be/6BvoNEZ_rc4
+- Justificación de la decisión de despliegue: https://youtu.be/nxyWD_41GCc
 - Demostración adicional: https://youtube.com/shorts/ifc5NYl4dh8?feature=share
 
 ## Archivos
