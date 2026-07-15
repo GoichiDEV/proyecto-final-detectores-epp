@@ -1,0 +1,6 @@
+prompt_index,prompt,event_precision,event_recall,event_f1,tn,fp,fn,tp,latency_ms_mean,latency_ms_median,fps,invalid_rate
+0,Is there at least one person not wearing a hard hat? Answer only YES or NO.,0.23809523809523808,1.0,0.38461538461538464,13,16,0,5,3584.3788465588873,4311.523225999736,0.27898836669009763,0.0
+1,Can you see any worker without a safety helmet? Answer only YES or NO.,1.0,0.2,0.3333333333333333,29,0,4,1,3654.7338291764604,4499.162042000535,0.27361773708848586,0.0
+2,Does anyone in this image have an uncovered head instead of a hard hat? Answer only YES or NO.,0.17647058823529413,0.6,0.2727272727272727,15,14,2,3,3716.5066739411595,4492.971993000538,0.2690698787147751,0.0
+3,Is every visible person wearing a hard hat? Answer only YES if everyone is protected; otherwise answer NO.,0.21052631578947367,0.8,0.3333333333333333,14,15,1,4,4012.159733705791,4656.241774499904,0.249242319940328,0.0
+4,Safety inspection: is a hard-hat violation present? Answer only YES or NO.,0.10526315789473684,0.4,0.16666666666666666,12,17,3,2,3914.0915628529583,4596.313840499533,0.25548712490289976,0.0

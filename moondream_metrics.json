@@ -1,0 +1,19 @@
+{
+  "event_precision": 0.23809523809523808,
+  "event_recall": 1.0,
+  "event_f1": 0.38461538461538464,
+  "tn": 13,
+  "fp": 16,
+  "fn": 0,
+  "tp": 5,
+  "latency_ms_mean": 3584.3788465588873,
+  "latency_ms_median": 4311.523225999736,
+  "fps": 0.27898836669009763,
+  "f1_mean": 0.2981351981351982,
+  "f1_std": 0.07468089117910577,
+  "recall_mean": 0.5999999999999999,
+  "recall_std": 0.282842712474619,
+  "mean_frame_agreement": 0.6647058823529413,
+  "full_agreement_rate": 0.029411764705882353,
+  "invalid_answer_rate_mean": 0.0
+}

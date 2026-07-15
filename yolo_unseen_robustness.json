@@ -1,0 +1,7 @@
+{
+  "unseen_target": "tie",
+  "closed_output_head_supports_target": false,
+  "closed_possible_target_detections": 0,
+  "world_target_detections_in_test_image": 5,
+  "interpretation": "El YOLO cerrado no puede emitir una clase ausente de su cabeza. YOLO-World puede consultarla sin reentrenamiento."
+}

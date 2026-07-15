@@ -1,0 +1,17 @@
+{
+  "event_precision": 0.8,
+  "event_recall": 0.8,
+  "event_f1": 0.8,
+  "tn": 28,
+  "fp": 1,
+  "fn": 1,
+  "tp": 4,
+  "latency_ms_mean": 60.971721617587555,
+  "latency_ms_median": 47.03794549914164,
+  "fps": 16.401045820420883,
+  "map50_shared": 0.3604407012462616,
+  "map_shared": 0.3604407012462616,
+  "map50_person": 0.0,
+  "map50_hardhat": 0.7208814024925232,
+  "mean_tp_iou": 0.7585116610543964
+}

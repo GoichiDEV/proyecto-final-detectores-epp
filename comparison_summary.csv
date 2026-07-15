@@ -1,0 +1,4 @@
+sistema,map50_person_hardhat,iou_medio_tp,event_precision,event_recall,event_f1,latency_ms,fps,flexibilidad,robustez,licencia
+YOLOv8n cerrado,0.3604407012462616,0.7585116610543964,0.8,0.8,0.8,60.971721617587555,16.401045820420883,Baja: requiere reentrenar,Vocabulario fijo; escena externa evaluada,AGPL-3.0 según la pauta
+YOLO-World,0.1971333622932434,0.7843911311352282,0.35714285714285715,1.0,0.5263157894736842,23.92824973530343,41.7916066182063,Alta: clases por texto,Clase nueva sin reentrenar; negación heurística,GPL-3.0 según la pauta
+VLM Florence-2 + Moondream2,0.2254820317029953,0.7632124052498463,0.23809523809523808,1.0,0.38461538461538464,5144.849561029439,0.19436914299198843,Muy alta: lenguaje natural,F1 prompt std=0.075,Florence MIT; Moondream Apache-2.0

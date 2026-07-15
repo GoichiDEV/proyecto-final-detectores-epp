@@ -1,0 +1,9 @@
+{
+  "f1_mean": 0.2981351981351982,
+  "f1_std": 0.07468089117910577,
+  "recall_mean": 0.5999999999999999,
+  "recall_std": 0.282842712474619,
+  "mean_frame_agreement": 0.6647058823529413,
+  "full_agreement_rate": 0.029411764705882353,
+  "invalid_answer_rate_mean": 0.0
+}

@@ -1,0 +1,20 @@
+{
+  "event_precision": 0.25,
+  "event_recall": 0.4,
+  "event_f1": 0.3076923076923077,
+  "tn": 23,
+  "fp": 6,
+  "fn": 3,
+  "tp": 2,
+  "latency_ms_mean": 1560.4707144705517,
+  "latency_ms_median": 1365.7066369996755,
+  "fps": 0.6408322762656187,
+  "map50_shared": 0.2254820317029953,
+  "map_shared": 0.2254820317029953,
+  "map50_person": 0.11231137067079544,
+  "map50_hardhat": 0.33865270018577576,
+  "mean_tp_iou": 0.7632124052498463,
+  "map_note": "Scores unitarios: mAP aproximada.",
+  "rubric_task_name": "<OPEN_VOCABULARY_DETECTION>",
+  "implemented_official_task": "<CAPTION_TO_PHRASE_GROUNDING>"
+}
