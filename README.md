@@ -2,7 +2,7 @@
 
 ## Integrante
 
-- **[Bastian Marcelo Aguilera Villagra]**
+- **Bastian Marcelo Aguilera Villagra**
 
 
 ## Objetivo
