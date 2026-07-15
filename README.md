@@ -83,6 +83,11 @@ El análisis de costo es cualitativo, porque no se dispone de una estimación mo
 - CUDA no garantiza determinismo perfecto.
 - Colab puede desconectarse.
 
+- ## Videos
+
+- Demostración de los tres paradigmas: https://youtu.be/6BvoNEZ_rc4
+- Demostración adicional: https://youtube.com/shorts/ifc5NYl4dh8?feature=share
+
 ## Archivos
 
 - `Proyecto_Final_Detectores_EPP.ipynb`
